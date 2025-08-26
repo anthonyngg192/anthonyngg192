@@ -6,5 +6,5 @@ Backend & System engineer. Rust addict, ex-Node.js.
 I like building **real-time systen data analytics**, **low-latency systems**,  
 and breaking stuff just to make it faster.  
 
-🚀 CPMM • AMM • System Design • Rust • TCP/UDP  
+🚀 AMM • System Design • Rust • TCP/UDP  
 ⭐️ Star if you vibe.
