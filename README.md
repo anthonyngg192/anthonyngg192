@@ -3,8 +3,7 @@
 
 # 👋 Hi, I’m Tony  
 Backend & System engineer. Rust addict, ex-Node.js.  
-I like building **real-time systen data analytics**, **low-latency systems**,  
-and breaking stuff just to make it faster.  
+Đi ngủ hay là code.
 
 🚀 Rust • TCP/UDP  
 ⭐️ Star if you vibe.
