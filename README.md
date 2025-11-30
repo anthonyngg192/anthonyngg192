@@ -2,8 +2,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 # 👋 Hi, I’m Tony  
-Backend - System engineer - Quant Trader. Rust addict, ex-Node.js.  
-Đi ngủ hay là code.
+Software engineer . Rust addict, ex-Node.js.  
+From zero to zero..
 
 🚀 Rust • TCP/UDP  
 ⭐️ Star if you vibe.
