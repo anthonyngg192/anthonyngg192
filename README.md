@@ -4,6 +4,6 @@
 # 👋 Hi, I’m Tony  
 Be An Engineer, Not A Frameworker
 
-🚀 Rust • TCP/UDP/QUIC
+# 🚀 Rust • TCP/UDP/QUIC
 Personal researcher - quant engineer.
 
