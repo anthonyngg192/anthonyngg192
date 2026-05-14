@@ -2,8 +2,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 # 👋 Hi, I’m Tony  
-Software engineer . Rust addict, ex-Nodejs.  
-From zero to zero..
+Be An Engineer, Not A Frameworker
 
 🚀 Rust • TCP/UDP  
 ⭐️ Star if you vibe.
