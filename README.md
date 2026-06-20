@@ -4,6 +4,4 @@
 # 👋 Hi, I’m Tony  
 Be An Engineer, Not A Frameworker
 
-🚀 Rust • TCP/UDP/QUIC • Candle | ONNX
-
 
