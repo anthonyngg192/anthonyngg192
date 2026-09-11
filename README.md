@@ -2,6 +2,5 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 # 👋 Hi, this is Hana.  
-Be An Engineer, Not A Frameworker
-
+!??? 
 
